@@ -19,8 +19,8 @@
 # WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR
 # IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-import cfWebSocketApiV1 as cfWsApi
-import util.cfLogging as cfLog
+import cf_websocket.cfWebSocketApiV1 as cfWsApi
+import cf_websocket.util.cfLogging as cfLog
 logger = cfLog.CfLogger.get_logger(" Example ")
 
 

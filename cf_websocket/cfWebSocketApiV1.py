@@ -29,7 +29,7 @@ import websocket
 
 from time import sleep
 from threading import Thread
-from util.cfLogging import CfLogger
+from cf_websocket.util.cfLogging import CfLogger
 
 class CfWebSocketMethods(object):
     """Crypto Facilities Ltd Web Socket API Connector"""
