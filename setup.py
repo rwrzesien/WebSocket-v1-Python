@@ -10,6 +10,7 @@ setup(
     maintainer_email='',
     packages=[
         'cf_websocket',
+        'cf_websocket.util'
     ],
     package_data={},
     include_package_data=True,
